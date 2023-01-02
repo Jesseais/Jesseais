@@ -5,7 +5,7 @@
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesseais&show_icons=true&theme=tokyonight)
 
-![Jesseais 's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesseais GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![Jesseais 's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesseais&layout=compact&hide_border=true&langs_count=10)
 
 
 ### Also check out my portfolio website 😎
