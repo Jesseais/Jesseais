@@ -10,4 +10,4 @@
 
 ### Also check out my portfolio website 😎
 
-✨[_Click this link to check it out!_](https://www.anisseven.top)✨  
+✨[_Click this link to check it out!_](https://www.ethereal.run)✨  
